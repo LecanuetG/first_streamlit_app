@@ -1,2 +1,5 @@
 #Requirements
+import streamlit
+import pandas
+import requests
 import snowfake.connector
