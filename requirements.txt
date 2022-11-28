@@ -1,2 +1,2 @@
 #requirements
-import snowfake.connector
+import snowflake.connector
